@@ -1,6 +1,6 @@
 {
   "name": "@blockonomics/lit-components",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Lit components library used by Blockonomics",
   "main": "dist/index.cjs.js",
   "module": "dist/index.esm.js",
